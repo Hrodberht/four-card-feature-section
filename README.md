@@ -10,6 +10,10 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
+## My Personal Progress
+
+This challenge is [project #2](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) as part of Matt Studdert's [16 front-end projects (with designs) to help improve your coding skills](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl).
+
 ## The challenge
 
 Your challenge is to build out this feature section and get it looking as close to the design as possible.
