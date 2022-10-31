@@ -1,5 +1,7 @@
 # Frontend Mentor - Four card feature section
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0806a1d3-d7e9-4fdd-a56f-43bb42489ade/deploy-status)](https://app.netlify.com/sites/four-card-feature-section-mentor/deploys)
+
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
